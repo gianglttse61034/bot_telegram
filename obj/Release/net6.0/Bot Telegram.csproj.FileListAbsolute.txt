@@ -1,0 +1,18 @@
+E:\Work\Source\Bot Telegram\bin\Release\net6.0\Bot Telegram.exe
+E:\Work\Source\Bot Telegram\bin\Release\net6.0\Bot Telegram.deps.json
+E:\Work\Source\Bot Telegram\bin\Release\net6.0\Bot Telegram.runtimeconfig.json
+E:\Work\Source\Bot Telegram\bin\Release\net6.0\Bot Telegram.dll
+E:\Work\Source\Bot Telegram\bin\Release\net6.0\Bot Telegram.pdb
+E:\Work\Source\Bot Telegram\bin\Release\net6.0\Newtonsoft.Json.dll
+E:\Work\Source\Bot Telegram\bin\Release\net6.0\Telegram.Bot.dll
+E:\Work\Source\Bot Telegram\obj\Release\net6.0\Bot Telegram.csproj.AssemblyReference.cache
+E:\Work\Source\Bot Telegram\obj\Release\net6.0\Bot Telegram.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Source\Bot Telegram\obj\Release\net6.0\Bot Telegram.AssemblyInfoInputs.cache
+E:\Work\Source\Bot Telegram\obj\Release\net6.0\Bot Telegram.AssemblyInfo.cs
+E:\Work\Source\Bot Telegram\obj\Release\net6.0\Bot Telegram.csproj.CoreCompileInputs.cache
+E:\Work\Source\Bot Telegram\obj\Release\net6.0\Bot Telegram.csproj.CopyComplete
+E:\Work\Source\Bot Telegram\obj\Release\net6.0\Bot Telegram.dll
+E:\Work\Source\Bot Telegram\obj\Release\net6.0\refint\Bot Telegram.dll
+E:\Work\Source\Bot Telegram\obj\Release\net6.0\Bot Telegram.pdb
+E:\Work\Source\Bot Telegram\obj\Release\net6.0\Bot Telegram.genruntimeconfig.cache
+E:\Work\Source\Bot Telegram\obj\Release\net6.0\ref\Bot Telegram.dll

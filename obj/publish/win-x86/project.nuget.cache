@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "lHIXwFp9qCV43tSo8Je2jama3tfVmKS4IOiWoUz/rtVpBVB93PJCWiFmKdasyy1f/kQCWiCQA5ZFcA00huQEBw==",
+  "success": true,
+  "projectFilePath": "E:\\Work\\Source\\Bot Telegram\\Bot Telegram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\giang\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\giang\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512",
+    "C:\\Users\\giang\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.8\\microsoft.netcore.app.runtime.win-x86.6.0.8.nupkg.sha512",
+    "C:\\Users\\giang\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.8\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.8.nupkg.sha512",
+    "C:\\Users\\giang\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.8\\microsoft.aspnetcore.app.runtime.win-x86.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

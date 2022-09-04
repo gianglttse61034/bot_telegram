@@ -1,0 +1,2 @@
+E:\Work\Source\Bot Telegram\bin\Release\net6.0\publish\win-x64\Bot Telegram.pdb
+E:\Work\Source\Bot Telegram\bin\Release\net6.0\publish\win-x64\Bot Telegram.exe
